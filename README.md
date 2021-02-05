@@ -1,5 +1,5 @@
 # Tetris
-This is a simple remake of the infamous Tetris game (that I am sure you have heard of). Use the left and right arrow keys to move the piece left and right, the up arrow to rotate the piece, and the space bar to hard drop or hold the down arrow to soft drop.
+This is a simple remake of the famous Tetris game (that I am sure you have heard of). Use the left and right arrow keys to move the piece left and right, the up arrow to rotate the piece, and the space bar to hard drop or hold the down arrow to soft drop. You can also see the next piece, but you can't switch to it (yet, at least).
 
 ## Installing
 1. Install [Python 3.9.1](https://www.python.org/downloads/release/python-391/) on your system
